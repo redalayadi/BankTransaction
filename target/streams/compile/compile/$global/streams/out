@@ -1,0 +1,13 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/reda/Desktop/KafkaStreamingProject/KafkaStreamBankTransaction/src/main/scala/Serdes/KafkaBytesDeserializer.scala:9:80: a pure expression does nothing in statement position[0m
+[0m[[0m[33mwarn[0m] [0m[0m  override def configure(configs: util.Map[String, _], isKey: Boolean): Unit = 0[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/reda/Desktop/KafkaStreamingProject/KafkaStreamBankTransaction/src/main/scala/Serdes/KafkaBytesDeserializer.scala:18:32: a pure expression does nothing in statement position[0m
+[0m[[0m[33mwarn[0m] [0m[0m  override def close(): Unit = 0[0m
+[0m[[0m[33mwarn[0m] [0m[0m                               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/reda/Desktop/KafkaStreamingProject/KafkaStreamBankTransaction/src/main/scala/Serdes/KafkaBytesSerializer.scala:10:80: a pure expression does nothing in statement position[0m
+[0m[[0m[33mwarn[0m] [0m[0m  override def configure(configs: util.Map[String, _], isKey: Boolean): Unit = 0[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/reda/Desktop/KafkaStreamingProject/KafkaStreamBankTransaction/src/main/scala/Serdes/KafkaBytesSerializer.scala:20:32: a pure expression does nothing in statement position[0m
+[0m[[0m[33mwarn[0m] [0m[0m  override def close(): Unit = 0[0m
+[0m[[0m[33mwarn[0m] [0m[0m                               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mfour warnings found[0m
